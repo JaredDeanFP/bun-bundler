@@ -13,4 +13,12 @@ To run:
 bun dev
 ```
 
+# Reproduce
+1. Install dependencies
+2. Run api (`bun dev`)
+3. Hit api endpoint `localhost:3000/calc`
+    - Scalar UI is available on `localhost:3000/openapi`
+4. Let it chug
+5. Crash
+
 This project was created using `bun init` in bun v1.2.21. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
