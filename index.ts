@@ -86,7 +86,7 @@ async function initializeDatabase() {
   console.log("Database initialization completed");
 }
 
-initializeDatabase().catch(console.error);
+await initializeDatabase().catch(console.error);
 
 export default {
     fetch: app.fetch,
