@@ -9,6 +9,8 @@ Minimal Reproduction of Bundlr crash. I know this is terrible code, it vaguely r
 4. Let it chug
 5. Crash
 
+[video](reproduce.mp4)
+
 To install dependencies:
 
 ```bash
